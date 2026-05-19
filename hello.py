@@ -19,7 +19,7 @@ print(f"{a} + {b} = {a + b}")
 print(f"{a} - {b} = {a - b}")
 
 # Simuler un test
-assert a + b == 15, "Le test a échoué !"
+assert a + b == 15, "❌ Le test a échoué intentionnellement"
 print("✅ Tous les tests passent avec succès")
 
 
